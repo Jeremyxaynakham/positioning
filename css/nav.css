@@ -8,7 +8,8 @@
 .topnav a {
     float: left;
     display: block;
-    color: whitesmoke;
+    color: #ffffff
+;
     text-align: center;
     padding: 12px 12px;
     text-decoration: none;
@@ -17,7 +18,8 @@
 }
 
 .topnav a.hover, .active {
-    background-color: darkcyan;
+    background-color: #335e91
+;
 }
 
 .topnav .icon {
